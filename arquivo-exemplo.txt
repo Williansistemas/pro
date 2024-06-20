@@ -1,0 +1,9 @@
+public class OlaMundo ( 
+	//metodo principal - inicia o aplicativo java
+ 
+	public static void main(String[] args){ 
+		//Exibe a frase "Ola Mundo!" no console. 
+		System.out.println("0la Mundo!");
+ 
+)//fim do metodo principal 
+}// fim da classe "OlaMundo" 
